@@ -1,4 +1,0 @@
-channelOSHA
-===========
-
-Channel OSHA
